@@ -2,10 +2,10 @@
 
 # 🔥 Preview Project
 
-## 🚀[Preview Project](https://crisger.github.io/slider/)
+ 🚀[Preview Project](https://crisger.github.io/slider/)
 
 # 🔥 open Server
 
-## open with live server
+ open with live server
 
 ## 🗨️ a simple silder ready for any project
